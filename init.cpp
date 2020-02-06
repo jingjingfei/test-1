@@ -31,3 +31,5 @@ int function3;
 
 int func20;
 int func21;
+
+int function40;
