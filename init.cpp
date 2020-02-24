@@ -5,4 +5,7 @@ int rebase2;
 int rebase3;
 int rebase4;
 int rebase5;
+int rebase6;
+int rebase7;
+int rebase8;
 
