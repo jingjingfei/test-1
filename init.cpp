@@ -35,3 +35,9 @@ int func21;
 int function40;
 int function41;
 int function32;
+
+int function50;
+int function510;
+int function520;
+int function54;
+int function55;
