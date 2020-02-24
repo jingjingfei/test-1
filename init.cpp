@@ -28,3 +28,6 @@ int function;
 int function1;
 int function2;
 int function3;
+
+int func20;
+int func21;
