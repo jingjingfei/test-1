@@ -43,3 +43,5 @@ int function54;
 int function55;
 
 int function6;
+int function61;
+int function62;
