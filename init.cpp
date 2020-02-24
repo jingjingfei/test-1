@@ -23,3 +23,8 @@ int develop;
 int develop1;
 int develop2;
 int develop3;
+
+int function;
+int function1;
+int function2;
+int function3;
