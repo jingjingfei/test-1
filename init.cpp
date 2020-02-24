@@ -49,3 +49,4 @@ int function63;
 
 int function7;
 int function71;
+int function72;
