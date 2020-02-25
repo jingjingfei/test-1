@@ -56,6 +56,13 @@ int function8;
 int function81;
 int function82;
 
+
 int function9;
 int function91;
 int function92;
+
+int function10;
+int function11;
+int function12;
+
+
