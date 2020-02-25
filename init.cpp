@@ -58,3 +58,4 @@ int function82;
 
 int function10;
 int function11;
+int function12;
