@@ -66,4 +66,5 @@ int function11;
 int function12;
 
 int pullrequest;
+int pullrequest2;
 
